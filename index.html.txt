@@ -1,3 +1,9 @@
 <h1>Hyderbad developer code</h1>
+<<<<<<< HEAD
 <h1> Beng code modi </h1>
 <h1>code</h1>
+
+<h1>Banglore dev code modifications</h1>
+<h1>modeified code </h1>
+code 2
+code 3
